@@ -1,0 +1,10 @@
+.keys {
+  display: flex;
+  flex-direction: row;
+  padding: 0 5px;
+}
+
+.key {
+  border: 1 solid black;
+  padding: 0 5px;
+}
